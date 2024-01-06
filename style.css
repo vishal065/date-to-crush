@@ -19,6 +19,11 @@ body {
   margin-right: 150px;
   margin-top: 30px;
 }
+#goback {
+  position: absolute;
+  margin-right: 150px;
+  margin-top: 550px;
+}
 
 .header_text {
   font-family: "Nunito";
